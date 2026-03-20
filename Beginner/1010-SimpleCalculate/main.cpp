@@ -12,5 +12,5 @@ int main() {
     std::cout << std::fixed << std::setprecision(2);
     std::cout << "VALOR A PAGAR: R$ " << ((price1 * unit1 ) + (price2 * unit2)) << std::endl;
 
-    return 0;
+    return 0;   
 }
